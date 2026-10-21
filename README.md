@@ -1,84 +1,78 @@
-<!-- Fill in every [bracketed] part with your real details, then delete this comment. -->
+<!-- Fill the few [placeholders] and REPO_NAME values. Delete anything that isn't true for you. -->
 
-<h1 align="center">Hi, I'm Yashvi 👋</h1>
+<div align="center">
 
-<p align="center">
-  Robotics · Embedded Systems · Software Development<br/>
-  <sub>Based in India</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Yashvee%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Software&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashvi-shah-869917293"><img src="https://img.shields.io/badge/LinkedIn-Yashvi%20Shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-reach%20me-555?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<a href="https://github.com/Yashvee30">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Robotics+enthusiast+still+learning+in+public;Building+things%2C+breaking+things%2C+fixing+things;Fixing+bugs+I+accidentally+created+myself" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## About me
+<a href="https://www.linkedin.com/in/yashvi-shah-869917293"><img src="https://img.shields.io/badge/LinkedIn-Yashvi%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=Yashvee30&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views"/>
 
-I'm interested in robotics, embedded systems, and software development. I like understanding how things work, and I like building projects that solve real problems.
-
-I'm still learning and figuring things out as I go. The way I improve is by building something, breaking it, finding out why, and fixing it. I'm curious about new ideas, happy to collaborate, and interested in areas I don't know yet.
-
-Powered by coffee, driven by curiosity, and occasionally fixing bugs I created myself. 💻😅
+</div>
 
 ---
 
-## What I'm working on
+## 👋 About Me
 
-- **Right now:** [your current project, course, or internship]
-- **Learning:** [e.g. ROS 2, STM32, computer vision. Only list what you're actually learning]
-- **Background:** [your degree / college / year]
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="robot"/>
 
----
+I'm **Yashvi Shah** (Yashvee), from India. I'm interested in **robotics, embedded systems, and software development**, and I like understanding how things actually work, then building projects that solve real problems.
 
-## Tools I use
+I'm still learning and figuring things out as I go. I believe the best way to improve is to build things, make mistakes, solve them, and learn from the process.
 
-<!-- Keep only what you've really used. Add or remove freely. -->
-
-| | |
-|---|---|
-| **Languages** | [Python, C, C++] |
-| **Embedded / hardware** | [Arduino, ESP32, Raspberry Pi, sensors, motors] |
-| **Robotics** | [ROS, Gazebo, ...] |
-| **Other** | [Git, Linux, ...] |
+- 🔭 **Working on:** [your current project, course, or role]
+- 🎓 **Background:** [your degree / college / year]
+- 🌱 **Exploring:** [e.g. ROS 2, microcontrollers, computer vision, whatever is true right now]
+- 🤝 **Open to:** collaborating, learning from others, and exploring areas beyond what I already know
+- ☕ **Powered by:** coffee and curiosity
 
 ---
 
-## Projects
+## 🧭 How I Work
 
-<!-- You have 7 repositories. Pick the 3 or 4 you're proudest of. -->
+> Honest engineering over impressive-sounding engineering.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b><a href="https://github.com/Yashvee30/[repo-1]">[Project 1]</a></b><br/>
-      [What it does, in one or two plain sentences.]<br/>
-      <sub>[Tech used]</sub>
-    </td>
-    <td valign="top" width="50%">
-      <b><a href="https://github.com/Yashvee30/[repo-2]">[Project 2]</a></b><br/>
-      [What it does, in one or two plain sentences.]<br/>
-      <sub>[Tech used]</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <b><a href="https://github.com/Yashvee30/[repo-3]">[Project 3]</a></b><br/>
-      [What it does, in one or two plain sentences.]<br/>
-      <sub>[Tech used]</sub>
-    </td>
-    <td valign="top" width="50%">
-      <b><a href="https://github.com/Yashvee30/[repo-4]">[Project 4]</a></b><br/>
-      [What it does, in one or two plain sentences.]<br/>
-      <sub>[Tech used]</sub>
-    </td>
-  </tr>
-</table>
+- **I learn by building.** Tutorials get me started; projects teach me the rest.
+- **I treat mistakes as data.** Most of what I know came from something that didn't work first.
+- **I stay curious.** I'd rather ask "why does this work?" than copy a fix I don't understand.
+- **I keep showing up.** Small, steady progress beats occasional bursts.
 
 ---
 
-## Contribution skyline
+## 🛠️ Tech Stack
+
+<!-- Keep only the icons you genuinely use. Full list: https://skillicons.dev -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,github,vscode&perline=8" alt="skills"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace REPO_NAME with your repo names. The cards pull the real description automatically. -->
+<div align="center">
+
+<a href="https://github.com/Yashvee30/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="project 1"/></a>
+<a href="https://github.com/Yashvee30/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="project 2"/></a>
+<br/>
+<a href="https://github.com/Yashvee30/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" alt="project 3"/></a>
+<a href="https://github.com/Yashvee30/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" alt="project 4"/></a>
+
+</div>
+
+---
+
+## 🏙️ My Contribution Skyline
+
+Every building is a day I showed up and built something.
 
 <div align="center">
   <picture>
@@ -90,6 +84,23 @@ Powered by coffee, driven by curiosity, and occasionally fixing bugs I created m
 
 ---
 
-## Let's talk
+## 📊 GitHub Stats
 
-I'm open to collaborating on robotics and embedded projects, and to learning from people who know more than I do. If you're building something interesting, message me on LinkedIn.
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashvee30&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvee30&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+</div>
+
+---
+
+## 🤝 Let's Build Something
+
+I'm always open to collaborating and learning from people working in robotics, embedded systems, or software. If you're building something interesting, say hi.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
+
+<sub>Powered by coffee, driven by curiosity, occasionally fixing bugs I created myself 💻😅</sub>
+
+</div>
