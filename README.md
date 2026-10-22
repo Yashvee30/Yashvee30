@@ -1,72 +1,95 @@
-<!-- Fill the few [placeholders] and REPO_NAME values. Delete anything that isn't true for you. -->
+<!--
+  HOW TO FINISH THIS FILE
+  1. Search for "REPO_" and replace with your real repository names (Projects section).
+  2. In "Tools I Use", delete any icon you haven't actually used.
+  3. Fill in the [square bracket] items, or delete the lines you don't want.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Yashvee%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Software&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Yashvee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Software&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/Yashvee30">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Robotics+Engineer+who+learns+by+building;Building+things%2C+breaking+things%2C+fixing+things;Fixing+bugs+I+accidentally+created+myself" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Robotics+enthusiast+%F0%9F%A4%96;Still+learning%2C+building%2C+breaking+things;Fixing+bugs+I+accidentally+created+myself" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/yashvi-shah-869917293"><img src="https://img.shields.io/badge/LinkedIn-Yashvi%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://komarev.com/ghpvc/?username=Yashvee30&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=Yashvee30&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 💫 About Me
 
-<img align="right" width="260" src="./assets/robot.svg" alt="animated girl robot waving"/>
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="robot"/>
 
-I'm **Yashvi Shah** (Yashvee), a **Robotics Engineer** from India. I work with **robotics, embedded systems, and software development**, and I like understanding how things actually work, then building projects that solve real problems.
+I'm **Yashvi Shah** (Yashvee), based in **India**, and I'm interested in **robotics, embedded systems, and software development**.
 
-I'm still learning and figuring things out as I go. I believe the best way to improve is to build things, make mistakes, solve them, and learn from the process.
+I enjoy understanding how things work and building projects that solve real-world problems. I'm still learning and figuring things out as I go. I believe the best way to improve is to build things, make mistakes, solve problems, and learn from the process.
 
-- 🔭 **Working on:** [your current project, course, or role]
-- 🎓 **Background:** [your degree / college / year]
-- 🌱 **Exploring:** [e.g. ROS 2, microcontrollers, computer vision, whatever is true right now]
-- 🤝 **Open to:** collaborating, learning from others, and exploring areas beyond what I already know
-- ☕ **Powered by:** coffee and curiosity
-
----
-
-## 🧭 How I Work
-
-> Honest engineering over impressive-sounding engineering.
-
-- **I learn by building.** Tutorials get me started; projects teach me the rest.
-- **I treat mistakes as data.** Most of what I know came from something that didn't work first.
-- **I stay curious.** I'd rather ask "why does this work?" than copy a fix I don't understand.
-- **I keep showing up.** Small, steady progress beats occasional bursts.
+- 🔭 **Currently working on:** [your current project or focus]
+- 🌱 **Currently learning:** [e.g. ROS 2, embedded C, computer vision]
+- 🤝 **Open to:** collaborating with others and exploring areas beyond what I already know
+- 💬 **Ask me about:** [robotics / embedded / your favourite topic]
+- ☕ **Powered by** coffee and curiosity
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 How I Learn
 
-<!-- Keep only the icons you genuinely use. Full list: https://skillicons.dev -->
+> I don't pretend to know everything. I learn by building.
+
+- **Build first, polish later.** A working prototype teaches more than a perfect plan.
+- **Mistakes are data.** Every bug I fix is a lesson I keep.
+- **Curious by default.** I like taking things apart (figuratively and literally) to see how they work.
+- **Better together.** I enjoy learning from and working with other people.
+
+---
+
+## 🛠️ Tools I Use
+
+<!-- Keep only the icons for tools you have really used -->
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,github,vscode&perline=8" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,linux,git,github,vscode&perline=9" alt="tools"/>
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<!-- Replace REPO_NAME with your repo names. The cards pull the real description automatically. -->
-<div align="center">
-
-<a href="https://github.com/Yashvee30/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="project 1"/></a>
-<a href="https://github.com/Yashvee30/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="project 2"/></a>
+<details>
+<summary><b>📋 The detail (click to expand)</b></summary>
 <br/>
-<a href="https://github.com/Yashvee30/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" alt="project 3"/></a>
-<a href="https://github.com/Yashvee30/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" alt="project 4"/></a>
+
+| Area | What I work with |
+|------|------------------|
+| **Robotics** | [e.g. ROS, Gazebo, sensors, motors] |
+| **Embedded systems** | [e.g. Arduino, Raspberry Pi, microcontrollers] |
+| **Software** | [e.g. Python, C/C++] |
+| **Currently exploring** | [what you're picking up next] |
+
+</details>
+
+---
+
+## 🚀 Projects
+
+<!-- Replace REPO_1 ... REPO_4 with your repository names.
+     These cards pull the description from GitHub automatically, so nothing here can be exaggerated. -->
+
+<div align="center">
+
+<a href="https://github.com/Yashvee30/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_1&theme=tokyonight&hide_border=true" alt="REPO_1"/></a>
+<a href="https://github.com/Yashvee30/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_2&theme=tokyonight&hide_border=true" alt="REPO_2"/></a>
+<br/>
+<a href="https://github.com/Yashvee30/REPO_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_3&theme=tokyonight&hide_border=true" alt="REPO_3"/></a>
+<a href="https://github.com/Yashvee30/REPO_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvee30&repo=REPO_4&theme=tokyonight&hide_border=true" alt="REPO_4"/></a>
 
 </div>
+
+<sub>More on my <a href="https://github.com/Yashvee30?tab=repositories">repositories page</a>.</sub>
 
 ---
 
@@ -93,14 +116,16 @@ Every building is a day I showed up and built something.
 
 ---
 
-## 🤝 Let's Build Something
+## 🤝 Let's Connect
 
-I'm always open to collaborating and learning from people working in robotics, embedded systems, or software. If you're building something interesting, say hi.
+I'm always curious about new ideas and happy to collaborate. If you're working on something in robotics, embedded systems, or software, say hi.
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/yashvi-shah-869917293"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
 
-<sub>Powered by coffee, driven by curiosity, occasionally fixing bugs I created myself 💻😅</sub>
+<sub>Powered by coffee, driven by curiosity, and occasionally fixing bugs I accidentally created myself 💻😅</sub>
 
 </div>
