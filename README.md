@@ -144,7 +144,7 @@ Powered by coffee, driven by curiosity, and occasionally fixing bugs I accidenta
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Yashvee30/Jetbot"><b>Jetbot</b></a><br>
-      Jetbot robot project
+      Jetson as processor and controller
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Yashvee30/SANKEETAK---sign-language-converter"><b>SANKEETAK</b></a><br>
