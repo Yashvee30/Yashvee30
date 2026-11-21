@@ -208,13 +208,13 @@ Embedded Firmware · CAN Communication · Motor Control · Computer Vision · Ma
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-I'm always open to discussing robotics, SLAM and navigation, embedded systems, or collaborating on projects.
+I'm open to discussing robotics, SLAM and navigation, embedded systems, or collaborating on projects.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashvi-shah-869917293"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">Thanks for stopping by, feel free to explore my repositories. ⭐</p>
+<p align="center">Thanks for visiting, feel free to explore my repositories. ⭐</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
