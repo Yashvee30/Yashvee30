@@ -29,71 +29,73 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
 
 <h2 align="center">💫 About Me</h2>
 
-<p align="center">
-  I'm a robotics and automation engineering student working on sensor fusion, navigation and 3D SLAM,<br>
-  on both the software and the electronics side. I enjoy building and testing robots on real hardware,<br>
-  and I'm still learning something new with every project.
-</p>
+I'm a robotics and automation engineering student working on sensor fusion, navigation and 3D SLAM, on both the software and the electronics side. I like building robots and testing them on real hardware, whether that means setting up a robotic arm in simulation, writing firmware for a motor driver or getting a LiDAR to map a room. I'm still learning and I try to pick up something new with every project.
 
 ---
 
 <h2 align="center">🛠️ Skills</h2>
 
-<table align="center">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <b>🤖 Robotics</b><br>
-      Robotic Arms<br>
-      Manipulation<br>
-      Motion Planning<br>
-      Robot Integration<br>
-      Motor Control
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>🖥️ Simulation & Modelling</b><br>
-      Robot Modelling<br>
-      URDF / Xacro<br>
-      Gazebo<br>
-      RViz<br>
-      MoveIt
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>⚙️ Robotics Middleware</b><br>
-      ROS2<br>
-      MoveIt 2<br>
-      TF2<br>
-      Navigation2<br>
-      micro-ROS
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <b>📡 Autonomous Systems</b><br>
-      3D SLAM<br>
-      LiDAR Odometry<br>
-      Sensor Fusion<br>
-      LiDAR<br>
-      Depth Cameras
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>👁️ AI & Perception</b><br>
-      Machine Learning<br>
-      Model Training<br>
-      Computer Vision<br>
-      Object Detection<br>
-      Image Processing
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>🔌 Embedded Systems</b><br>
-      ESP32<br>
-      STM32<br>
-      Motor Drivers<br>
-      CAN Communication<br>
-      UART / I2C / SPI<br>
-      BLE
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Robotics &amp; Manipulation</b><br>
+  <sub>Building robotic arms and mobile robots, from motion planning to motor control on real hardware.</sub><br>
+  <img src="https://img.shields.io/badge/Robotic_Arms-2EA5E9?style=flat-square" alt="Robotic Arms" />
+  <img src="https://img.shields.io/badge/Manipulation-2EA5E9?style=flat-square" alt="Manipulation" />
+  <img src="https://img.shields.io/badge/Motion_Planning-2EA5E9?style=flat-square" alt="Motion Planning" />
+  <img src="https://img.shields.io/badge/Motor_Control-2EA5E9?style=flat-square" alt="Motor Control" />
+  <img src="https://img.shields.io/badge/Robot_Integration-2EA5E9?style=flat-square" alt="Robot Integration" />
+</p>
+
+<p align="center">
+  <b>Simulation &amp; Modelling</b><br>
+  <sub>Modelling robots and testing them in simulation before they run on hardware.</sub><br>
+  <img src="https://img.shields.io/badge/URDF-1A73E8?style=flat-square" alt="URDF" />
+  <img src="https://img.shields.io/badge/Xacro-1A73E8?style=flat-square" alt="Xacro" />
+  <img src="https://img.shields.io/badge/Gazebo-1A73E8?style=flat-square" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/RViz-1A73E8?style=flat-square" alt="RViz" />
+  <img src="https://img.shields.io/badge/MoveIt-1A73E8?style=flat-square" alt="MoveIt" />
+</p>
+
+<p align="center">
+  <b>Robotics Middleware</b><br>
+  <sub>Developing ROS2 applications that connect sensors, planners and actuators.</sub><br>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square" alt="ROS2" />
+  <img src="https://img.shields.io/badge/MoveIt_2-22314E?style=flat-square" alt="MoveIt 2" />
+  <img src="https://img.shields.io/badge/TF2-22314E?style=flat-square" alt="TF2" />
+  <img src="https://img.shields.io/badge/Navigation2-22314E?style=flat-square" alt="Navigation2" />
+  <img src="https://img.shields.io/badge/micro--ROS-22314E?style=flat-square" alt="micro-ROS" />
+</p>
+
+<p align="center">
+  <b>Autonomous Systems</b><br>
+  <sub>Mapping, localization and navigation using LiDAR odometry and fused sensor data.</sub><br>
+  <img src="https://img.shields.io/badge/3D_SLAM-2E8B57?style=flat-square" alt="3D SLAM" />
+  <img src="https://img.shields.io/badge/LiDAR_Odometry-2E8B57?style=flat-square" alt="LiDAR Odometry" />
+  <img src="https://img.shields.io/badge/Sensor_Fusion-2E8B57?style=flat-square" alt="Sensor Fusion" />
+  <img src="https://img.shields.io/badge/LiDAR-2E8B57?style=flat-square" alt="LiDAR" />
+  <img src="https://img.shields.io/badge/Depth_Cameras-2E8B57?style=flat-square" alt="Depth Cameras" />
+</p>
+
+<p align="center">
+  <b>AI &amp; Perception</b><br>
+  <sub>Training and deploying machine learning models so robots can detect and understand what they see.</sub><br>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Model_Training-FF6F00?style=flat-square" alt="Model Training" />
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Object_Detection-FF6F00?style=flat-square" alt="Object Detection" />
+  <img src="https://img.shields.io/badge/Image_Processing-FF6F00?style=flat-square" alt="Image Processing" />
+</p>
+
+<p align="center">
+  <b>Embedded Systems</b><br>
+  <sub>Writing firmware for microcontrollers, motor drivers and the buses that connect them.</sub><br>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" alt="ESP32" />
+  <img src="https://img.shields.io/badge/STM32-E7352C?style=flat-square" alt="STM32" />
+  <img src="https://img.shields.io/badge/CAN-E7352C?style=flat-square" alt="CAN" />
+  <img src="https://img.shields.io/badge/UART-E7352C?style=flat-square" alt="UART" />
+  <img src="https://img.shields.io/badge/I2C-E7352C?style=flat-square" alt="I2C" />
+  <img src="https://img.shields.io/badge/SPI-E7352C?style=flat-square" alt="SPI" />
+  <img src="https://img.shields.io/badge/BLE-E7352C?style=flat-square" alt="BLE" />
+</p>
 
 <p align="center">
   <i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i>
