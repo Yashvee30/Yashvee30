@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;ML+%7C+Computer+Vision+%7C+Embedded)](https://github.com/Yashvee30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;Machine+Learning+%7C+Computer+Vision+%7C+Embedded+Systems)](https://github.com/Yashvee30)
 
 # Yashvee
 
@@ -35,86 +35,64 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
 
 <h2 align="center">🛠️ Skills</h2>
 
-<table align="center">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <b>🤖 Robotics &amp; Manipulation</b><br><br>
-      Robotic Arms<br>
-      Manipulation<br>
-      Motion Planning<br>
-      Mobile Robots<br>
-      Motor Control
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>🖥️ Simulation &amp; Modelling</b><br><br>
-      Robot Modelling<br>
-      URDF / Xacro<br>
-      Gazebo<br>
-      RViz<br>
-      Simulation &amp; Testing
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>⚙️ Robotics Middleware</b><br><br>
-      ROS2<br>
-      MoveIt 2<br>
-      TF2<br>
-      Navigation2<br>
-      micro-ROS
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <b>📡 Autonomous Systems</b><br><br>
-      3D SLAM<br>
-      LiDAR Odometry<br>
-      Sensor Fusion<br>
-      Localization<br>
-      Autonomous Navigation
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>🔭 Sensors</b><br><br>
-      LiDAR<br>
-      Depth Cameras<br>
-      IMU<br>
-      Cameras<br>
-      Encoders
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>👁️ AI &amp; Perception</b><br><br>
-      Machine Learning<br>
-      Model Training<br>
-      Computer Vision<br>
-      Object Detection<br>
-      Image Processing
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <b>🔌 Embedded Systems</b><br><br>
-      ESP32<br>
-      STM32<br>
-      Firmware Development<br>
-      RTOS<br>
-      Motor Drivers
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>📶 Communication Protocols</b><br><br>
-      CAN<br>
-      UART<br>
-      I2C<br>
-      SPI<br>
-      BLE
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>🔧 Hardware &amp; Electronics</b><br><br>
-      Sensor Interfacing<br>
-      Hardware Integration<br>
-      Hardware Testing<br>
-      Debugging<br>
-      Electronics Prototyping
-    </td>
-  </tr>
-</table>
+<h3 align="center">🤖 Robotics & Automation</h3>
+
+<div align="center">
+
+| Skill | Description |
+|:---:|:---|
+| **ROS2** | Developing robotic applications using nodes, topics, services, actions and communication interfaces. |
+| **MoveIt 2** | Robotic arm motion planning, trajectory execution and manipulation. |
+| **URDF / Xacro** | Creating, modifying and integrating robot models and descriptions. |
+| **Gazebo** | Robot simulation, environment modelling and testing. |
+| **RViz** | Visualizing robot models, sensor data, TF frames and motion planning. |
+| **TF2** | Managing coordinate frames and transformations between robot components. |
+| **Navigation2** | Developing autonomous navigation and path-planning systems. |
+| **Robot Integration** | Integrating sensors, actuators, controllers and software into complete robotic systems. |
+
+</div>
+
+<h3 align="center">📡 Autonomous Systems</h3>
+
+<div align="center">
+
+| Skill | Description |
+|:---:|:---|
+| **3D SLAM** | Building 3D maps and estimating robot pose from LiDAR and other sensor data. |
+| **LiDAR Odometry** | Real-time odometry, mapping and localization using MOLA. |
+| **Sensor Fusion** | Combining LiDAR, depth camera and IMU data for reliable perception and state estimation. |
+| **Sensor Integration** | Interfacing LiDAR, depth cameras, IMUs, cameras and encoders with robot software. |
+
+</div>
+
+<h3 align="center">👁️ AI & Perception</h3>
+
+<div align="center">
+
+| Skill | Description |
+|:---:|:---|
+| **Machine Learning** | Training, evaluating and deploying models for robotic perception tasks. |
+| **Computer Vision** | Camera-based detection, tracking and recognition for robots. |
+| **Object Detection** | Detecting people and objects, for example for person-following robots. |
+| **Image Processing** | Preprocessing and analysing camera images and depth data. |
+
+</div>
+
+<h3 align="center">🔌 Embedded Systems & Communication</h3>
+
+<div align="center">
+
+| Skill | Description |
+|:---:|:---|
+| **ESP32** | Firmware for ESP32 and ESP32-C3 boards, including WiFi, BLE and CAN-based designs. |
+| **STM32 / RTOS** | Embedded development on STM32 platforms, including NuttX RTOS. |
+| **micro-ROS** | Connecting microcontrollers to ROS2 networks. |
+| **Motor Control** | Stepper and servo control using drivers such as the TMC2209 and encoders such as the MT6701. |
+| **CAN** | Messaging between motor drivers and controllers over a CAN bus. |
+| **UART / I2C / SPI** | Interfacing sensors, drivers and peripherals on microcontrollers. |
+| **BLE** | Wireless communication between Android apps and embedded devices. |
+
+</div>
 
 <p align="center">
   <sub><i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i></sub>
@@ -131,12 +109,11 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MOLA-SLAM-2EA5E9?style=for-the-badge" alt="MOLA" />
 </p>
 
 ---
 
-<h2 align="center">My Contribution</h2>
+<h2 align="center">🏙️ My Contribution</h2>
 
 <p align="center">
   <a href="https://yashvee30.github.io/skyline/">
