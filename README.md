@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;Autonomous+Navigation+%7C+Embedded+Systems)](https://github.com/Yashvee30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;Machine+Learning+%7C+Computer+Vision+%7C+Embedded+Systems)](https://github.com/Yashvee30)
 
 # Yashvee
 
 **Robotics & Automation Engineering Student**
 
-ROS2 · 3D SLAM · Sensor Fusion · Embedded Systems
+ROS2 · 3D SLAM · Sensor Fusion · Machine Learning · Embedded Systems
 
 <br>
 
@@ -19,9 +19,9 @@ ROS2 · 3D SLAM · Sensor Fusion · Embedded Systems
 ![3D SLAM](https://img.shields.io/badge/3D-SLAM-2EA5E9?style=flat-square)
 ![Sensor Fusion](https://img.shields.io/badge/Sensor-Fusion-1A73E8?style=flat-square)
 ![Navigation](https://img.shields.io/badge/Autonomous-Navigation-2E8B57?style=flat-square)
-![Embedded](https://img.shields.io/badge/Embedded-Systems-E7352C?style=flat-square)
-![Robotic Arms](https://img.shields.io/badge/Robotic-Arms-orange?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF6F00?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer-Vision-8A2BE2?style=flat-square)
+![Embedded](https://img.shields.io/badge/Embedded-Systems-E7352C?style=flat-square)
 
 </div>
 
@@ -35,8 +35,8 @@ My work spans simulation, real hardware integration and autonomous navigation.
 </p>
 
 <p align="center">
-I'm especially interested in <b>3D SLAM, sensor fusion, computer vision and machine learning</b>,<br>
-and in applying them to robotic perception and decision-making.
+I'm especially interested in <b>3D SLAM, sensor fusion, machine learning and computer vision</b>.<br>
+I train models, test them, and apply them to robotic perception and decision-making.
 </p>
 
 <p align="center">
@@ -61,22 +61,22 @@ Powered by coffee, driven by curiosity, and occasionally fixing bugs I accidenta
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <b>🦾 Robotic Arm Modelling</b><br>
-      Merging a 5-DOF URDF with a 6th-servo gripper into one model
+      <b>🧠 ML &amp; Computer Vision</b><br>
+      Training models and applying them to robot perception
     </td>
     <td width="50%" valign="top" align="center">
-      <b>🔌 Embedded Firmware</b><br>
-      CAN-controlled stepper drivers on ESP32-C3
+      <b>🦾 Robotic Arm Modelling</b><br>
+      Merging a 5-DOF URDF with a 6th-servo gripper into one model
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <b>🧰 ros4everyone</b><br>
-      Beginner-friendly ROS tools: URDF maker, viewer and ROS1→ROS2 converter
+      <b>🔌 Embedded Firmware</b><br>
+      CAN-controlled stepper drivers on ESP32-C3
     </td>
     <td width="50%" valign="top" align="center">
-      <b>🧠 ML &amp; Computer Vision</b><br>
-      Applying learning-based methods to robotics
+      <b>🧰 ros4everyone</b><br>
+      Beginner-friendly ROS tools: URDF maker, viewer and ROS1→ROS2 converter
     </td>
   </tr>
 </table>
@@ -107,7 +107,7 @@ Powered by coffee, driven by curiosity, and occasionally fixing bugs I accidenta
     </td>
     <td width="33%" valign="top" align="center">
       <b>👁️ AI &amp; Perception</b><br>
-      Machine Learning<br>Computer Vision<br>Object Detection
+      Machine Learning<br>Model Training<br>Computer Vision<br>Object Detection
     </td>
     <td width="33%" valign="top" align="center">
       <b>🔌 Embedded Systems</b><br>
@@ -115,6 +115,52 @@ Powered by coffee, driven by curiosity, and occasionally fixing bugs I accidenta
     </td>
   </tr>
 </table>
+
+---
+
+<h2 align="center">🧠 Machine Learning &amp; Computer Vision</h2>
+
+<p align="center">
+I don't just use pre-trained models. I train them, evaluate them and show the results.
+</p>
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <b>🏋️ Model Training</b><br>
+      Preparing data, training and evaluating models for robotics tasks
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>👁️ Computer Vision</b><br>
+      Detection and recognition from camera and depth data
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>📊 Visualizing Results</b><br>
+      Displaying model output live, so I can see what the robot sees
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <b>🤖 Robot Perception</b><br>
+      Using learned models for person following and navigation
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>🧩 Sensor + Vision</b><br>
+      Combining camera, LiDAR and depth data with learned models
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>🚀 Deployment</b><br>
+      Running models on real robot hardware such as the Jetbot
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+<b>Applied in:</b>
+<a href="https://github.com/Yashvee30/person_follow">person_follow</a> ·
+<a href="https://github.com/Yashvee30/SANKEETAK---sign-language-converter">SANKEETAK</a> ·
+<a href="https://github.com/Yashvee30/Jetbot">Jetbot</a>
+</p>
 
 ---
 
@@ -144,7 +190,7 @@ Powered by coffee, driven by curiosity, and occasionally fixing bugs I accidenta
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Yashvee30/Jetbot"><b>Jetbot</b></a><br>
-      Jetson as processor and controller
+      Jetbot robot project
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Yashvee30/SANKEETAK---sign-language-converter"><b>SANKEETAK</b></a><br>
@@ -188,12 +234,12 @@ Powered by coffee, driven by curiosity, and occasionally fixing bugs I accidenta
 
 <p align="center">
 <b>Core skills:</b> ROS2 · 3D SLAM · Sensor Fusion · LiDAR &amp; Depth Cameras · URDF · Motion Planning<br>
-Embedded Firmware · CAN Communication · Motor Control · Computer Vision · Machine Learning · Gazebo
+Machine Learning · Model Training · Computer Vision · Embedded Firmware · CAN Communication · Motor Control
 </p>
 
 ---
 
-<h2 align="center">🏙️ My Contribution Skyline</h2>
+<h2 align="center"> My Contribution </h2>
 
 <p align="center">
   <a href="https://yashvee30.github.io/skyline/">
@@ -208,13 +254,13 @@ Embedded Firmware · CAN Communication · Motor Control · Computer Vision · Ma
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-I'm open to discussing robotics, SLAM and navigation, embedded systems, or collaborating on projects.
+I'm always open to discussing robotics, SLAM and navigation, machine learning, embedded systems, or collaborating on projects.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashvi-shah-869917293"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">Thanks for visiting, feel free to explore my repositories. ⭐</p>
+<p align="center">Thanks for stopping by, feel free to explore my repositories. ⭐</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
