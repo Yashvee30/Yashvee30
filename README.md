@@ -16,35 +16,17 @@ ROS2 · 3D SLAM · Sensor Fusion · Machine Learning · Embedded Systems
 [![GitHub](https://img.shields.io/badge/GitHub-Yashvee30-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashvee30)
 ![Profile views](https://komarev.com/ghpvc/?username=Yashvee30&color=2EA5E9&style=for-the-badge&label=PROFILE+VIEWS)
 
-![3D SLAM](https://img.shields.io/badge/3D-SLAM-2EA5E9?style=flat-square)
-![Sensor Fusion](https://img.shields.io/badge/Sensor-Fusion-1A73E8?style=flat-square)
-![Navigation](https://img.shields.io/badge/Autonomous-Navigation-2E8B57?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF6F00?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-8A2BE2?style=flat-square)
-![Embedded](https://img.shields.io/badge/Embedded-Systems-E7352C?style=flat-square)
-
 </div>
 
 ---
 
 <h2 align="center">💫 About Me</h2>
 
-<table align="center">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <b>🔧 What I Build</b><br>
-      Robots from the electronics up: sensors, motor control, firmware and robotics software
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>🔭 What I Explore</b><br>
-      3D SLAM, sensor fusion, machine learning and computer vision for robot perception
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>💡 How I Learn</b><br>
-      By building, making mistakes and fixing them, from simulation to real hardware
-    </td>
-  </tr>
-</table>
+<p align="center">
+🔧 <b>What I build:</b> robots from the electronics up, covering sensors, motor control, firmware and robotics software<br><br>
+🔭 <b>What I explore:</b> 3D SLAM, sensor fusion, machine learning and computer vision for robot perception<br><br>
+💡 <b>How I learn:</b> by building, making mistakes and fixing them, from simulation to real hardware
+</p>
 
 <p align="center"><i>Powered by coffee, driven by curiosity, and occasionally fixing bugs I accidentally created myself. 💻😅</i></p>
 
@@ -52,82 +34,69 @@ ROS2 · 3D SLAM · Sensor Fusion · Machine Learning · Embedded Systems
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/Yashvee30/web-rviz2"><b>web-rviz2</b></a> · Web-based RViz to visualize robot data in the browser<br>
+<sub><code>Python</code> <code>ROS2</code> <code>RViz</code></sub>
+</p>
 
-| Project | What it is | Skills |
-|:---:|:---:|:---:|
-| [**web-rviz2**](https://github.com/Yashvee30/web-rviz2) | Web-based RViz to visualize robot data in the browser | `Python` `ROS2` `RViz` |
-| [**esp32_microros**](https://github.com/Yashvee30/esp32_microros) | micro-ROS on ESP32, connecting microcontrollers to ROS2 | `ESP32` `micro-ROS` `ROS2` |
-| [**nuttx_nucleo-h7**](https://github.com/Yashvee30/nuttx_nucleo-h7) | NuttX RTOS on a custom flight controller | `C` `NuttX RTOS` `Embedded` |
-| [**person_follow**](https://github.com/Yashvee30/person_follow) | Person detection and following robot | `Python` `Computer Vision` `Detection` |
-| [**Jetbot**](https://github.com/Yashvee30/Jetbot) | Jetbot robot project | `Python` `Jetson` `Robotics` |
-| [**SANKEETAK**](https://github.com/Yashvee30/SANKEETAK---sign-language-converter) | Sign language converter for a Smart India Hackathon | `Python` `Machine Learning` `Computer Vision` |
-| **NavigationHUD** | Android app sending Google Maps turn directions to an ESP32 OLED HUD | `Kotlin` `Compose` `BLE` `ESP32` |
-| **ros4everyone** | Beginner-friendly ROS tools: URDF maker, viewer, converter, Gazebo world creator | `ROS` `URDF` `Gazebo` |
+<p align="center">
+<a href="https://github.com/Yashvee30/esp32_microros"><b>esp32_microros</b></a> · micro-ROS on ESP32, connecting microcontrollers to ROS2<br>
+<sub><code>ESP32</code> <code>micro-ROS</code> <code>ROS2</code></sub>
+</p>
 
-</div>
+<p align="center">
+<a href="https://github.com/Yashvee30/nuttx_nucleo-h7"><b>nuttx_nucleo-h7</b></a> · NuttX RTOS on a custom flight controller<br>
+<sub><code>C</code> <code>NuttX RTOS</code> <code>Embedded</code></sub>
+</p>
+
+<p align="center">
+<a href="https://github.com/Yashvee30/person_follow"><b>person_follow</b></a> · Person detection and following robot<br>
+<sub><code>Python</code> <code>Computer Vision</code> <code>Detection</code></sub>
+</p>
+
+<p align="center">
+<a href="https://github.com/Yashvee30/Jetbot"><b>Jetbot</b></a> · Jetbot robot project<br>
+<sub><code>Python</code> <code>Jetson</code> <code>Robotics</code></sub>
+</p>
+
+<p align="center">
+<a href="https://github.com/Yashvee30/SANKEETAK---sign-language-converter"><b>SANKEETAK</b></a> · Sign language converter for a Smart India Hackathon<br>
+<sub><code>Python</code> <code>Machine Learning</code> <code>Computer Vision</code></sub>
+</p>
+
+<p align="center">
+<b>NavigationHUD</b> · Android app sending Google Maps turn directions to an ESP32 OLED HUD<br>
+<sub><code>Kotlin</code> <code>Compose</code> <code>BLE</code> <code>ESP32</code></sub>
+</p>
+
+<p align="center">
+<b>ros4everyone</b> · Beginner-friendly ROS tools: URDF maker, viewer, converter, Gazebo world creator<br>
+<sub><code>ROS</code> <code>URDF</code> <code>Gazebo</code></sub>
+</p>
 
 ---
 
 <h2 align="center">🎯 Current Focus</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b>🗺️ 3D LiDAR Odometry</b><br>
-      Mapping and localization on a Go2 robot using MOLA
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b>📡 Sensor Fusion</b><br>
-      LiDAR and depth cameras for robot perception
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b>🧠 ML &amp; Computer Vision</b><br>
-      Training, evaluating and deploying models on robots
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b>🦾 Robotic Arm Modelling</b><br>
-      Merging a 5-DOF URDF with a 6th-servo gripper
-    </td>
-  </tr>
-</table>
+<p align="center">
+🗺️ <b>3D LiDAR odometry</b> and mapping on a Go2 robot using MOLA<br>
+📡 <b>Sensor fusion</b> with LiDAR and depth cameras<br>
+🧠 <b>ML &amp; computer vision:</b> training, evaluating and deploying models on robots<br>
+🦾 <b>Robotic arm modelling:</b> merging a 5-DOF URDF with a 6th-servo gripper
+</p>
 
 ---
 
 <h2 align="center">🛠️ Technical Areas</h2>
 
-<table align="center">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <b>🤖 Robotics</b><br>
-      Robotic Arms<br>Manipulation<br>Motion Planning<br>Robot Integration
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>🖥️ Simulation</b><br>
-      Robot Modeling<br>URDF<br>Gazebo<br>RViz
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>⚙️ Middleware</b><br>
-      ROS2<br>MoveIt<br>TF2<br>Navigation
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <b>📡 Autonomous Systems</b><br>
-      3D SLAM<br>Sensor Fusion<br>LiDAR<br>Depth Cameras
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>👁️ AI &amp; Perception</b><br>
-      Machine Learning<br>Model Training<br>Computer Vision<br>Object Detection
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>🔌 Embedded Systems</b><br>
-      ESP32<br>Motor Drivers<br>CAN Communication<br>BLE
-    </td>
-  </tr>
-</table>
+<p align="center">
+🤖 <b>Robotics</b> · Robotic Arms · Manipulation · Motion Planning · Robot Integration<br>
+🖥️ <b>Simulation</b> · Robot Modeling · URDF · Gazebo · RViz<br>
+⚙️ <b>Middleware</b> · ROS2 · MoveIt · TF2 · Navigation<br>
+📡 <b>Autonomous Systems</b> · 3D SLAM · Sensor Fusion · LiDAR · Depth Cameras<br>
+👁️ <b>AI &amp; Perception</b> · Machine Learning · Model Training · Computer Vision · Object Detection<br>
+🔌 <b>Embedded Systems</b> · ESP32 · Motor Drivers · CAN Communication · BLE
+</p>
 
 ---
 
