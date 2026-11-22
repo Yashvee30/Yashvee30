@@ -29,50 +29,74 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
 
 <h2 align="center">💫 About Me</h2>
 
-I'm a robotics and automation engineering student working on sensor fusion, navigation and 3D SLAM, on both the software and the electronics side. I like building robots and testing them on real hardware, whether that means setting up a robotic arm in simulation, writing firmware for a motor driver or getting a LiDAR to map a room. I'm still learning and I try to pick up something new with every project.
+<p align="center">
+  I'm a robotics and automation engineering student working on sensor fusion, navigation and 3D SLAM,<br>
+  on both the software and the electronics side. I enjoy building and testing robots on real hardware,<br>
+  and I'm still learning something new with every project.
+</p>
 
 ---
 
 <h2 align="center">🛠️ Skills</h2>
 
-<p align="center">
-  <b>Robotics &amp; Manipulation</b><br>
-  <sub><i>Robotic arms and mobile robots, from motion planning to motor control on real hardware</i></sub><br>
-  Robotic Arms · Manipulation · Motion Planning · Motor Control · Robot Integration
-</p>
+<table align="center">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <b>🤖 Robotics</b><br>
+      Robotic Arms<br>
+      Manipulation<br>
+      Motion Planning<br>
+      Robot Integration<br>
+      Motor Control
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>🖥️ Simulation & Modelling</b><br>
+      Robot Modelling<br>
+      URDF / Xacro<br>
+      Gazebo<br>
+      RViz<br>
+      MoveIt
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>⚙️ Robotics Middleware</b><br>
+      ROS2<br>
+      MoveIt 2<br>
+      TF2<br>
+      Navigation2<br>
+      micro-ROS
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <b>📡 Autonomous Systems</b><br>
+      3D SLAM<br>
+      LiDAR Odometry<br>
+      Sensor Fusion<br>
+      LiDAR<br>
+      Depth Cameras
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>👁️ AI & Perception</b><br>
+      Machine Learning<br>
+      Model Training<br>
+      Computer Vision<br>
+      Object Detection<br>
+      Image Processing
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>🔌 Embedded Systems</b><br>
+      ESP32<br>
+      STM32<br>
+      Motor Drivers<br>
+      CAN Communication<br>
+      UART / I2C / SPI<br>
+      BLE
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <b>Simulation &amp; Modelling</b><br>
-  <sub><i>Robot models and simulation used to test designs before running them on hardware</i></sub><br>
-  URDF / Xacro · Gazebo · RViz · MoveIt
-</p>
-
-<p align="center">
-  <b>Robotics Middleware</b><br>
-  <sub><i>ROS2 applications that connect sensors, planners and actuators</i></sub><br>
-  ROS2 · MoveIt 2 · TF2 · Navigation2 · micro-ROS
-</p>
-
-<p align="center">
-  <b>Autonomous Systems</b><br>
-  <sub><i>Mapping, localization and navigation using LiDAR odometry and fused sensor data</i></sub><br>
-  3D SLAM · LiDAR Odometry · Sensor Fusion · LiDAR · Depth Cameras
-</p>
-
-<p align="center">
-  <b>AI &amp; Perception</b><br>
-  <sub><i>Training and deploying models for detection and scene understanding on robots</i></sub><br>
-  Machine Learning · Model Training · Computer Vision · Object Detection · Image Processing
-</p>
-
-<p align="center">
-  <b>Embedded Systems</b><br>
-  <sub><i>Firmware for microcontrollers, motor drivers and the buses that connect them</i></sub><br>
-  ESP32 · STM32 · CAN · UART / I2C / SPI · BLE
-</p>
-
-<p align="center">
-  <sub><i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i></sub>
+  <i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i>
 </p>
 
 ---
