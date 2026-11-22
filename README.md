@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;Machine+Learning+%7C+Computer+Vision+%7C+Embedded+Systems)](https://github.com/Yashvee30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;ML+%7C+Computer+Vision+%7C+Embedded)](https://github.com/Yashvee30)
 
 # Yashvee
 
@@ -42,8 +42,8 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
       Robotic Arms<br>
       Manipulation<br>
       Motion Planning<br>
-      Motor Control<br>
-      Robot Integration
+      Mobile Robots<br>
+      Motor Control
     </td>
     <td width="33%" valign="top" align="center">
       <b>🖥️ Simulation &amp; Modelling</b><br><br>
@@ -51,7 +51,7 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
       URDF / Xacro<br>
       Gazebo<br>
       RViz<br>
-      MoveIt
+      Simulation &amp; Testing
     </td>
     <td width="33%" valign="top" align="center">
       <b>⚙️ Robotics Middleware</b><br><br>
@@ -68,8 +68,16 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
       3D SLAM<br>
       LiDAR Odometry<br>
       Sensor Fusion<br>
+      Localization<br>
+      Autonomous Navigation
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>🔭 Sensors</b><br><br>
       LiDAR<br>
-      Depth Cameras
+      Depth Cameras<br>
+      IMU<br>
+      Cameras<br>
+      Encoders
     </td>
     <td width="33%" valign="top" align="center">
       <b>👁️ AI &amp; Perception</b><br><br>
@@ -79,13 +87,31 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
       Object Detection<br>
       Image Processing
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top" align="center">
       <b>🔌 Embedded Systems</b><br><br>
-      ESP32 · STM32<br>
-      Motor Drivers<br>
-      CAN Communication<br>
-      UART / I2C / SPI<br>
+      ESP32<br>
+      STM32<br>
+      Firmware Development<br>
+      RTOS<br>
+      Motor Drivers
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>📶 Communication Protocols</b><br><br>
+      CAN<br>
+      UART<br>
+      I2C<br>
+      SPI<br>
       BLE
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>🔧 Hardware &amp; Electronics</b><br><br>
+      Sensor Interfacing<br>
+      Hardware Integration<br>
+      Hardware Testing<br>
+      Debugging<br>
+      Electronics Prototyping
     </td>
   </tr>
 </table>
@@ -96,30 +122,21 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
 
 ---
 
-<h2 align="center">🧰 Tools & Technologies</h2>
+<h2 align="center">🧰 Programming & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MoveIt-333333?style=for-the-badge" alt="MoveIt" />
-  <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/RViz-11557C?style=for-the-badge" alt="RViz" />
-  <img src="https://img.shields.io/badge/micro--ROS-22314E?style=for-the-badge" alt="micro-ROS" />
-  <img src="https://img.shields.io/badge/MOLA-SLAM-2EA5E9?style=for-the-badge" alt="MOLA" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MOLA-SLAM-2EA5E9?style=for-the-badge" alt="MOLA" />
 </p>
 
 ---
 
-<h2 align="center">🏙️ My Contribution</h2>
+<h2 align="center">My Contribution</h2>
 
 <p align="center">
   <a href="https://yashvee30.github.io/skyline/">
