@@ -29,7 +29,7 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
 
 <h2 align="center">💫 About Me</h2>
 
-I'm a robotics and automation engineering working on sensor fusion, navigation and 3D SLAM, on both the software and the electronics side. I like building robots and testing them on real hardware, whether that means setting up a robotic arm in simulation, writing firmware for a motor driver or getting a LiDAR to map a room. I'm still learning and I try to pick up something new with every project.
+I'm a robotics and automation engineer working on sensor fusion, navigation and 3D SLAM, on both the software and the electronics side. I like building robots and testing them on real hardware, whether that means setting up a robotic arm in simulation, writing firmware for a motor driver or getting a LiDAR to map a room. I'm still learning and I try to pick up something new with every project.
 
 ---
 
@@ -39,12 +39,12 @@ I'm a robotics and automation engineering working on sensor fusion, navigation a
 
 | Topic | Skills |
 |:---:|:---:|
-| **🤖  Robotics & Automation** | ROS2 · MoveIt 2 · URDF · Gazebo · RViz · TF2 · Navigation2 · Robot Integration |
-| **📡 Autonomous Systems** | SLAM · LiDAR Odometry · Sensor Fusion · Localization · Mapping |
-| **🔭 Sensor fuion** | LiDAR · Depth Cameras · IMU · Cameras · Encoders |
-| **👁️ AI & Perception** | Machine Learning · Model Training · Computer Vision · Object Detection · Image classification |
-| **🔌 Embedded Systems** | ESP32 · STM32 · micro-ROS · RTOS · Firmware Development · Motor Drivers · Motor Control |
-| **📶 Communication Protocols** | CAN · UART · I2C · SPI · BLE |
+| **Robotics & Automation** | ROS2 · MoveIt 2 · URDF · Gazebo · RViz · TF2 · Navigation2 · Robot Integration |
+| **Autonomous Systems** | SLAM · LiDAR Odometry · Sensor Fusion · Localization · Mapping |
+| **Sensors** | LiDAR · Depth Cameras · IMU · Cameras · Encoders |
+| **AI & Perception** | Machine Learning · Model Training · Computer Vision · Object Detection · Image Classification |
+| **Embedded Systems** | ESP32 · STM32 · micro-ROS · RTOS · Firmware Development · Motor Drivers · Motor Control |
+| **Communication Protocols** | CAN · UART · I2C · SPI · BLE |
 
 </div>
 
@@ -61,13 +61,28 @@ I'm a robotics and automation engineering working on sensor fusion, navigation a
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-<h2 align="center"> My Contribution</h2>
+<h2 align="center">My Contribution</h2>
 
 <p align="center">
   <a href="https://yashvee30.github.io/skyline/">
@@ -84,7 +99,7 @@ I'm a robotics and automation engineering working on sensor fusion, navigation a
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  I'm  interested in discussing robotics, autonomous systems, SLAM, navigation, machine learning and embedded development.
+  I'm interested in discussing robotics, autonomous systems, SLAM, navigation, machine learning and embedded development.
   <br>
   Open to learning, collaborating and building interesting projects together.
 </p>
