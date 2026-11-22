@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;Machine+Learning+%7C+Computer+Vision+%7C+Embedded+Systems)](https://github.com/Yashvee30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;ML+%7C+Computer+Vision+%7C+Embedded)](https://github.com/Yashvee30)
 
 # Yashvee
 
