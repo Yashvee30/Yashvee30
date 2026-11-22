@@ -29,76 +29,15 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
 
 <h2 align="center">💫 About Me</h2>
 
-<table align="center">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <b>🔧 What I Build</b><br>
-      Robotic systems involving hardware, electronics, firmware, motor control and robotics software.
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>🔭 What I Explore</b><br>
-      Autonomous navigation, 3D SLAM, sensor fusion, machine learning and computer vision.
-    </td>
-    <td width="33%" valign="top" align="center">
-      <b>💡 How I Work</b><br>
-      Learning through hands-on development, hardware testing, debugging and real-world robot integration.
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <i>Interested in understanding how things work, building them from scratch, and making robots do something meaningful. 🤖</i>
+  I'm a robotics and automation engineering student working on sensor fusion, navigation and 3D SLAM,<br>
+  on both the software and the electronics side. I enjoy building and testing robots on real hardware,<br>
+  and I'm still learning something new with every project.
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-| Project | What it is | Skills |
-|:---:|:---:|:---:|
-| [**web-rviz2**](https://github.com/Yashvee30/web-rviz2) | Web-based RViz for visualizing ROS2 robot data directly in a browser | `Python` `ROS2` `RViz` |
-| [**esp32_microros**](https://github.com/Yashvee30/esp32_microros) | Connecting ESP32 microcontrollers with ROS2 using micro-ROS | `ESP32` `micro-ROS` `ROS2` |
-| [**nuttx_nucleo-h7**](https://github.com/Yashvee30/nuttx_nucleo-h7) | Exploring NuttX RTOS on an STM32 Nucleo-H7 platform | `C` `NuttX RTOS` `Embedded` |
-| [**person_follow**](https://github.com/Yashvee30/person_follow) | Computer vision-based person detection and following robot | `Python` `Computer Vision` `Robotics` |
-| [**Jetbot**](https://github.com/Yashvee30/Jetbot) | Jetson-based mobile robotics project | `Python` `Jetson` `Robotics` |
-| [**SANKEETAK**](https://github.com/Yashvee30/SANKEETAK---sign-language-converter) | Sign language conversion project developed for Smart India Hackathon | `Python` `Machine Learning` `Computer Vision` |
-| **NavigationHUD** | Android application for sending navigation directions to an ESP32-based display | `Kotlin` `Android` `BLE` `ESP32` |
-| **ros4everyone** | Beginner-friendly ROS tools for URDF creation, visualization, conversion and Gazebo workflows | `ROS2` `URDF` `Gazebo` |
-
-</div>
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b>🗺️ 3D LiDAR SLAM</b><br>
-      Exploring mapping, localization and LiDAR odometry for quadruped robots using MOLA.
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b>📡 Sensor Fusion</b><br>
-      Working with LiDAR, depth cameras and IMU data for reliable robot perception.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b>🧠 Machine Learning & Computer Vision</b><br>
-      Exploring object detection, model training and deploying intelligent perception systems on robots.
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b>🦾 Robotic Manipulation</b><br>
-      Developing robotic arm models, MoveIt integration, motion planning and hardware control.
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🛠️ Technical Areas</h2>
+<h2 align="center">🛠️ Skills</h2>
 
 <table align="center">
   <tr>
@@ -155,6 +94,10 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i>
+</p>
 
 ---
 
