@@ -29,11 +29,7 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
 
 <h2 align="center">💫 About Me</h2>
 
-<p align="center">
-  I'm a robotics and automation engineering student working on sensor fusion, navigation and 3D SLAM,<br>
-  on both the software and the electronics side. I enjoy building and testing robots on real hardware,<br>
-  and I'm still learning something new with every project.
-</p>
+I'm a robotics and automation engineering student working on sensor fusion, navigation and 3D SLAM, on both the software and the electronics side. I like building robots and testing them on real hardware, whether that means setting up a robotic arm in simulation, writing firmware for a motor driver or getting a LiDAR to map a room. I'm still learning and I try to pick up something new with every project.
 
 ---
 
@@ -42,15 +38,15 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
 <table align="center">
   <tr>
     <td width="33%" valign="top" align="center">
-      <b>🤖 Robotics</b><br>
+      <b>🤖 Robotics &amp; Manipulation</b><br><br>
       Robotic Arms<br>
       Manipulation<br>
       Motion Planning<br>
-      Robot Integration<br>
-      Motor Control
+      Motor Control<br>
+      Robot Integration
     </td>
     <td width="33%" valign="top" align="center">
-      <b>🖥️ Simulation & Modelling</b><br>
+      <b>🖥️ Simulation &amp; Modelling</b><br><br>
       Robot Modelling<br>
       URDF / Xacro<br>
       Gazebo<br>
@@ -58,7 +54,7 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
       MoveIt
     </td>
     <td width="33%" valign="top" align="center">
-      <b>⚙️ Robotics Middleware</b><br>
+      <b>⚙️ Robotics Middleware</b><br><br>
       ROS2<br>
       MoveIt 2<br>
       TF2<br>
@@ -68,7 +64,7 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <b>📡 Autonomous Systems</b><br>
+      <b>📡 Autonomous Systems</b><br><br>
       3D SLAM<br>
       LiDAR Odometry<br>
       Sensor Fusion<br>
@@ -76,7 +72,7 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
       Depth Cameras
     </td>
     <td width="33%" valign="top" align="center">
-      <b>👁️ AI & Perception</b><br>
+      <b>👁️ AI &amp; Perception</b><br><br>
       Machine Learning<br>
       Model Training<br>
       Computer Vision<br>
@@ -84,9 +80,8 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
       Image Processing
     </td>
     <td width="33%" valign="top" align="center">
-      <b>🔌 Embedded Systems</b><br>
-      ESP32<br>
-      STM32<br>
+      <b>🔌 Embedded Systems</b><br><br>
+      ESP32 · STM32<br>
       Motor Drivers<br>
       CAN Communication<br>
       UART / I2C / SPI<br>
@@ -96,7 +91,7 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
 </table>
 
 <p align="center">
-  <i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i>
+  <sub><i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i></sub>
 </p>
 
 ---
