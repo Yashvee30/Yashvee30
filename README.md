@@ -6,7 +6,7 @@
 
 # Yashvee
 
-**Robotics & Automation Engineering Student**
+**Robotics & Automation Engineering **
 
 ROS2 · 3D SLAM · Sensor Fusion · Machine Learning · Embedded Systems
 
