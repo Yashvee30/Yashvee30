@@ -35,62 +35,16 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
 
 <h2 align="center">🛠️ Skills</h2>
 
-<h3 align="center">🤖 Robotics & Automation</h3>
-
 <div align="center">
 
-| Skill | Description |
-|:---:|:---|
-| **ROS2** | Developing robotic applications using nodes, topics, services, actions and communication interfaces. |
-| **MoveIt 2** | Robotic arm motion planning, trajectory execution and manipulation. |
-| **URDF / Xacro** | Creating, modifying and integrating robot models and descriptions. |
-| **Gazebo** | Robot simulation, environment modelling and testing. |
-| **RViz** | Visualizing robot models, sensor data, TF frames and motion planning. |
-| **TF2** | Managing coordinate frames and transformations between robot components. |
-| **Navigation2** | Developing autonomous navigation and path-planning systems. |
-| **Robot Integration** | Integrating sensors, actuators, controllers and software into complete robotic systems. |
-
-</div>
-
-<h3 align="center">📡 Autonomous Systems</h3>
-
-<div align="center">
-
-| Skill | Description |
-|:---:|:---|
-| **3D SLAM** | Building 3D maps and estimating robot pose from LiDAR and other sensor data. |
-| **LiDAR Odometry** | Real-time odometry, mapping and localization using MOLA. |
-| **Sensor Fusion** | Combining LiDAR, depth camera and IMU data for reliable perception and state estimation. |
-| **Sensor Integration** | Interfacing LiDAR, depth cameras, IMUs, cameras and encoders with robot software. |
-
-</div>
-
-<h3 align="center">👁️ AI & Perception</h3>
-
-<div align="center">
-
-| Skill | Description |
-|:---:|:---|
-| **Machine Learning** | Training, evaluating and deploying models for robotic perception tasks. |
-| **Computer Vision** | Camera-based detection, tracking and recognition for robots. |
-| **Object Detection** | Detecting people and objects, for example for person-following robots. |
-| **Image Processing** | Preprocessing and analysing camera images and depth data. |
-
-</div>
-
-<h3 align="center">🔌 Embedded Systems & Communication</h3>
-
-<div align="center">
-
-| Skill | Description |
-|:---:|:---|
-| **ESP32** | Firmware for ESP32 and ESP32-C3 boards, including WiFi, BLE and CAN-based designs. |
-| **STM32 / RTOS** | Embedded development on STM32 platforms, including NuttX RTOS. |
-| **micro-ROS** | Connecting microcontrollers to ROS2 networks. |
-| **Motor Control** | Stepper and servo control using drivers such as the TMC2209 and encoders such as the MT6701. |
-| **CAN** | Messaging between motor drivers and controllers over a CAN bus. |
-| **UART / I2C / SPI** | Interfacing sensors, drivers and peripherals on microcontrollers. |
-| **BLE** | Wireless communication between Android apps and embedded devices. |
+| Topic | Skills |
+|:---:|:---:|
+| **🤖 Robotics & Automation** | ROS2 · MoveIt 2 · URDF / Xacro · Gazebo · RViz · TF2 · Navigation2 · Robot Integration |
+| **📡 Autonomous Systems** | 3D SLAM · LiDAR Odometry · Sensor Fusion · Localization · Mapping |
+| **🔭 Sensors** | LiDAR · Depth Cameras · IMU · Cameras · Encoders |
+| **👁️ AI & Perception** | Machine Learning · Model Training · Computer Vision · Object Detection · Image Processing |
+| **🔌 Embedded Systems** | ESP32 · STM32 · micro-ROS · RTOS · Firmware Development · Motor Drivers · Motor Control |
+| **📶 Communication Protocols** | CAN · UART · I2C · SPI · BLE |
 
 </div>
 
