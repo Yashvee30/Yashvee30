@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;Machine+Learning+%7C+Computer+Vision+%7C+Embedded+Systems)](https://github.com/Yashvee30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;ML+%7C+Computer+Vision+%7C+Embedded+Systems)](https://github.com/Yashvee30)
 
 # Yashvee
 
@@ -29,7 +29,7 @@ Building Intelligent Robots · ROS2 · Autonomous Systems · Embedded Systems
 
 <h2 align="center">💫 About Me</h2>
 
-I'm a robotics and automation engineering student working on sensor fusion, navigation and 3D SLAM, on both the software and the electronics side. I like building robots and testing them on real hardware, whether that means setting up a robotic arm in simulation, writing firmware for a motor driver or getting a LiDAR to map a room. I'm still learning and I try to pick up something new with every project.
+I'm a robotics and automation engineering working on sensor fusion, navigation and 3D SLAM, on both the software and the electronics side. I like building robots and testing them on real hardware, whether that means setting up a robotic arm in simulation, writing firmware for a motor driver or getting a LiDAR to map a room. I'm still learning and I try to pick up something new with every project.
 
 ---
 
@@ -39,17 +39,17 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
 
 | Topic | Skills |
 |:---:|:---:|
-| **🤖 Robotics & Automation** | ROS2 · MoveIt 2 · URDF / Xacro · Gazebo · RViz · TF2 · Navigation2 · Robot Integration |
-| **📡 Autonomous Systems** | 3D SLAM · LiDAR Odometry · Sensor Fusion · Localization · Mapping |
-| **🔭 Sensors** | LiDAR · Depth Cameras · IMU · Cameras · Encoders |
-| **👁️ AI & Perception** | Machine Learning · Model Training · Computer Vision · Object Detection · Image Processing |
+| **🤖  Robotics & Automation** | ROS2 · MoveIt 2 · URDF · Gazebo · RViz · TF2 · Navigation2 · Robot Integration |
+| **📡 Autonomous Systems** | SLAM · LiDAR Odometry · Sensor Fusion · Localization · Mapping |
+| **🔭 Sensor fuion** | LiDAR · Depth Cameras · IMU · Cameras · Encoders |
+| **👁️ AI & Perception** | Machine Learning · Model Training · Computer Vision · Object Detection · Image classification |
 | **🔌 Embedded Systems** | ESP32 · STM32 · micro-ROS · RTOS · Firmware Development · Motor Drivers · Motor Control |
 | **📶 Communication Protocols** | CAN · UART · I2C · SPI · BLE |
 
 </div>
 
 <p align="center">
-  <sub><i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i></sub>
+  <sub><i>Currently working on 3D outdoor navigation and robot manipulation.</i></sub>
 </p>
 
 ---
@@ -67,7 +67,7 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
 
 ---
 
-<h2 align="center">🏙️ My Contribution</h2>
+<h2 align="center"> My Contribution</h2>
 
 <p align="center">
   <a href="https://yashvee30.github.io/skyline/">
@@ -84,7 +84,7 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  I'm always interested in discussing robotics, autonomous systems, SLAM, navigation, machine learning and embedded development.
+  I'm  interested in discussing robotics, autonomous systems, SLAM, navigation, machine learning and embedded development.
   <br>
   Open to learning, collaborating and building interesting projects together.
 </p>
