@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;ML+%7C+Computer+Vision+%7C+Embedded)](https://github.com/Yashvee30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineer;ROS2+%7C+3D+SLAM+%7C+Sensor+Fusion;Machine+Learning+%7C+Computer+Vision+%7C+Embedded+Systems)](https://github.com/Yashvee30)
 
 # Yashvee
 
@@ -37,68 +37,42 @@ I'm a robotics and automation engineering student working on sensor fusion, navi
 
 <p align="center">
   <b>Robotics &amp; Manipulation</b><br>
-  <sub>Building robotic arms and mobile robots, from motion planning to motor control on real hardware.</sub><br>
-  <img src="https://img.shields.io/badge/Robotic_Arms-2EA5E9?style=flat-square" alt="Robotic Arms" />
-  <img src="https://img.shields.io/badge/Manipulation-2EA5E9?style=flat-square" alt="Manipulation" />
-  <img src="https://img.shields.io/badge/Motion_Planning-2EA5E9?style=flat-square" alt="Motion Planning" />
-  <img src="https://img.shields.io/badge/Motor_Control-2EA5E9?style=flat-square" alt="Motor Control" />
-  <img src="https://img.shields.io/badge/Robot_Integration-2EA5E9?style=flat-square" alt="Robot Integration" />
+  <sub><i>Robotic arms and mobile robots, from motion planning to motor control on real hardware</i></sub><br>
+  Robotic Arms · Manipulation · Motion Planning · Motor Control · Robot Integration
 </p>
 
 <p align="center">
   <b>Simulation &amp; Modelling</b><br>
-  <sub>Modelling robots and testing them in simulation before they run on hardware.</sub><br>
-  <img src="https://img.shields.io/badge/URDF-1A73E8?style=flat-square" alt="URDF" />
-  <img src="https://img.shields.io/badge/Xacro-1A73E8?style=flat-square" alt="Xacro" />
-  <img src="https://img.shields.io/badge/Gazebo-1A73E8?style=flat-square" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/RViz-1A73E8?style=flat-square" alt="RViz" />
-  <img src="https://img.shields.io/badge/MoveIt-1A73E8?style=flat-square" alt="MoveIt" />
+  <sub><i>Robot models and simulation used to test designs before running them on hardware</i></sub><br>
+  URDF / Xacro · Gazebo · RViz · MoveIt
 </p>
 
 <p align="center">
   <b>Robotics Middleware</b><br>
-  <sub>Developing ROS2 applications that connect sensors, planners and actuators.</sub><br>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square" alt="ROS2" />
-  <img src="https://img.shields.io/badge/MoveIt_2-22314E?style=flat-square" alt="MoveIt 2" />
-  <img src="https://img.shields.io/badge/TF2-22314E?style=flat-square" alt="TF2" />
-  <img src="https://img.shields.io/badge/Navigation2-22314E?style=flat-square" alt="Navigation2" />
-  <img src="https://img.shields.io/badge/micro--ROS-22314E?style=flat-square" alt="micro-ROS" />
+  <sub><i>ROS2 applications that connect sensors, planners and actuators</i></sub><br>
+  ROS2 · MoveIt 2 · TF2 · Navigation2 · micro-ROS
 </p>
 
 <p align="center">
   <b>Autonomous Systems</b><br>
-  <sub>Mapping, localization and navigation using LiDAR odometry and fused sensor data.</sub><br>
-  <img src="https://img.shields.io/badge/3D_SLAM-2E8B57?style=flat-square" alt="3D SLAM" />
-  <img src="https://img.shields.io/badge/LiDAR_Odometry-2E8B57?style=flat-square" alt="LiDAR Odometry" />
-  <img src="https://img.shields.io/badge/Sensor_Fusion-2E8B57?style=flat-square" alt="Sensor Fusion" />
-  <img src="https://img.shields.io/badge/LiDAR-2E8B57?style=flat-square" alt="LiDAR" />
-  <img src="https://img.shields.io/badge/Depth_Cameras-2E8B57?style=flat-square" alt="Depth Cameras" />
+  <sub><i>Mapping, localization and navigation using LiDAR odometry and fused sensor data</i></sub><br>
+  3D SLAM · LiDAR Odometry · Sensor Fusion · LiDAR · Depth Cameras
 </p>
 
 <p align="center">
   <b>AI &amp; Perception</b><br>
-  <sub>Training and deploying machine learning models so robots can detect and understand what they see.</sub><br>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Model_Training-FF6F00?style=flat-square" alt="Model Training" />
-  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Object_Detection-FF6F00?style=flat-square" alt="Object Detection" />
-  <img src="https://img.shields.io/badge/Image_Processing-FF6F00?style=flat-square" alt="Image Processing" />
+  <sub><i>Training and deploying models for detection and scene understanding on robots</i></sub><br>
+  Machine Learning · Model Training · Computer Vision · Object Detection · Image Processing
 </p>
 
 <p align="center">
   <b>Embedded Systems</b><br>
-  <sub>Writing firmware for microcontrollers, motor drivers and the buses that connect them.</sub><br>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" alt="ESP32" />
-  <img src="https://img.shields.io/badge/STM32-E7352C?style=flat-square" alt="STM32" />
-  <img src="https://img.shields.io/badge/CAN-E7352C?style=flat-square" alt="CAN" />
-  <img src="https://img.shields.io/badge/UART-E7352C?style=flat-square" alt="UART" />
-  <img src="https://img.shields.io/badge/I2C-E7352C?style=flat-square" alt="I2C" />
-  <img src="https://img.shields.io/badge/SPI-E7352C?style=flat-square" alt="SPI" />
-  <img src="https://img.shields.io/badge/BLE-E7352C?style=flat-square" alt="BLE" />
+  <sub><i>Firmware for microcontrollers, motor drivers and the buses that connect them</i></sub><br>
+  ESP32 · STM32 · CAN · UART / I2C / SPI · BLE
 </p>
 
 <p align="center">
-  <i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i>
+  <sub><i>Currently working on 3D LiDAR SLAM with MOLA, sensor fusion, machine learning for robot perception, and robotic manipulation with MoveIt.</i></sub>
 </p>
 
 ---
